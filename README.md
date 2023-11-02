@@ -9,7 +9,7 @@
 -   💓 Relationship: Chưa kiếm được Girl Friend
 -   🍁 Profile: [Facebook](https://www.facebook.com/hunghero2207) - [Tiktok](https://www.tiktok.com/@hunghero32) - [Zalo](https://zalo.me/hunghero32)
 -   📫 Contact me on any platform by searching hunghero32
--   My job is the system administrator of Tidizi Group
+-   My job is the system administrator of TDZ Group
 -   🍀 Describe yourself: I am a very simple person ,hard-working, agile person. I have good team leadership ability
 
 # 📖 Top Langs
