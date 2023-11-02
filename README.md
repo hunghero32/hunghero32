@@ -1,11 +1,4 @@
-- 👋 Hi, I’m <h1>@hunghero32
-- 👀 I’m interested in website
-- 🌱 I’m currently learning Fullstack Develop 
-- 💞️ I’m looking to collaborate on github
-- 📫 Contact me on any platform by searching hunghero32
-- My job is the system administrator of Tidizi Group
-
-## I'm [Hung VN!](https://www.facebook.com/hunghero2207) - Nguyễn Việt Hưng 👋
+## I'm [Hưng VN!](https://www.facebook.com/hunghero2207) - Nguyễn Việt Hưng 👋
 # 📰 Talking about Information
 <img align="right" width=230px alt="PNG" src="https://i.imgur.com/fD0fbl9.png" />
 
