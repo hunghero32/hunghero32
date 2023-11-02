@@ -11,8 +11,6 @@
 -   📫 Contact me on any platform by searching hunghero32
 -   My job is the system administrator of TDZ Group
 -   🍀 Describe yourself: I am a very simple person ,hard-working, agile person. I have good team leadership ability
-
-# 📖 Top Langs
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif">
 
 
