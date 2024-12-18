@@ -6,7 +6,7 @@
 -   ❤️‍🔥 22/07/2004
 -   💬 My nickname is hunghero32
 -   🌱 I'm a technician Fullstack Development
--   💓 Relationship: Chưa kiếm được Girl Friend
+-   💓 Relationship: ?
 -   🍁 Profile: [Facebook](https://www.facebook.com/hunghero2207) - [Tiktok](https://www.tiktok.com/@hunghero32) - [Zalo](https://zalo.me/hunghero32)
 -   📫 Contact me on any platform by searching hunghero32
 -   My job is the system administrator of TDZ Group
