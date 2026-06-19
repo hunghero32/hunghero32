@@ -102,7 +102,7 @@ Tôi là một lập trình viên Fullstack đa năng. Tôi luôn hướng tới
 ## 📊 Thống kê GitHub (GitHub Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hunghero32&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true&title_color=61DAFB&icon_color=61DAFB" alt="Hưng's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hunghero32&show_icons=true&theme=react&hide_border=true&title_color=61DAFB&icon_color=61DAFB&locale=en" alt="Hưng's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunghero32&layout=compact&theme=react&hide_border=true&title_color=61DAFB" alt="Top Languages" width="48%" />
 </div>
 
